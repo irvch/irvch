@@ -1,8 +1,6 @@
 # Hi, I'm Irvin 👋  
 
-I'm an incoming Master's candidate studying math at New York University.  
-I like movies, comicbooks, video games, and I think coding is pretty neat.  
-I am interested in ML, data science, software, and data engineering internship positions.  
+I'm a Master's candidate studying math at New York University, and I think coding is pretty neat.
   
 <h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
